@@ -1,1 +1,4 @@
-
+    Throwghout my research, I learned about the ways in which artificial intelligence is being used in software companies. Before I started this assignment, I knew that AI was being used by more and more developer jobs. 
+    The one that stood out to me the most was GitHub Copilot , because it can keep developers guessing about code and solutions in real time. It was interesting to see how companies like Shopify and Duolingo  are using AI in different ways for their products and services.
+    Personally, I dont believe that artificial intelligence will replace programmers. I think it will be used as an auxiliary tool that can be faster and more efficient. However, developers can play a role because they have to check the results, solve problems and make decisions that AI cant always make correctly. 
+    After researching, I think its important to see software engineers learn how to integrate with AI tools and not see them as competitors. In the future, I will be doing more about this technology and how it can  be used in life.
